@@ -3538,7 +3538,7 @@
     (property "Datasheet" "~" (id 3) (at 214.63 83.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Mouser" "667-ERJ-3RSFR20V" (id 4) (at 214.63 83.82 0)
+    (property "Mouser" "667-ERJ-6BSFR20V" (id 4) (at 214.63 83.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid b6ddd8d2-33d0-40d6-ae93-ff44126457c5))
