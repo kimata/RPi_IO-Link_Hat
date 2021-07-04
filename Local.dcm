@@ -1,0 +1,19 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LTC2874
+D Quad IO-Link Master Hot Swap Controller and PHY
+F https://www.analog.com/media/en/technical-documentation/data-sheets/2874fb.pdf
+$ENDCMP
+#
+$CMP LTC8609-5
+D 42V, 3A Synchronous Step-Down Regulator with 2.5µA Quiescent Current
+F https://www.analog.com/media/en/technical-documentation/data-sheets/LT8609-8609A-8609B.pdf
+$ENDCMP
+#
+$CMP Raspberry_Pi_2_3_edit
+D expansion header for Raspberry Pi 2 & 3
+K raspberrypi gpio
+F https://www.raspberrypi.org/documentation/hardware/raspberrypi/schematics/rpi_SCH_3bplus_1p0_reduced.pdf
+$ENDCMP
+#
+#End Doc Library
