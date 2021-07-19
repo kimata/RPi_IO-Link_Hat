@@ -3,7 +3,8 @@
     "active_layer": 0,
     "active_layer_preset": "",
     "auto_track_width": false,
-    "hidden_nets": [],
+    "hidden_nets": [
+    ],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
@@ -68,7 +69,7 @@
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "RaspberryPi_IO-Link_Hat.kicad_prl",
+    "filename": "RPi_IO-Link_Hat.kicad_prl",
     "version": 3
   },
   "project": {
